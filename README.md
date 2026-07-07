@@ -46,36 +46,7 @@ Sign inventories and phonetic values are taken from the **Unicode Standard**: th
 | Linear B ideograms (with glosses) | 41 |
 | Linear A signs (conventional `AB` values) | 51 |
 
-## Usage
 
-Clone or download the repository and open `aegean-scripts.html` in any modern browser — no server or installation required.
-
-```bash
-git clone https://github.com/gmanios/aegean-scripts.git
-cd aegean-scripts
-# then just open aegean-scripts.html (or index.html for the landing page)
-```
-
-The signs render through the **Noto Sans Linear A** and **Noto Sans Linear B** web fonts (loaded from Google Fonts), so no special system fonts are needed. An internet connection is required the first time for the fonts to load.
-
-## Deploy to GitHub Pages
-
-1. Push these files to a repository.
-2. In **Settings → Pages**, set the source to the `main` branch (root).
-3. Your site goes live at `https://<username>.github.io/<repo>/`, with `index.html` as the landing page and the composer at `/aegean-scripts.html`.
-
-## Repository structure
-
-```
-aegean-scripts/
-├── index.html            # Landing page (GitHub Pages entry point)
-├── aegean-scripts.html   # The composer app (single file)
-└── README.md
-```
-
-## Tech
-
-Vanilla HTML, CSS and JavaScript in a single file. Type: **Fraunces** (display), **Inter** (UI), **Space Mono** (transliterations); glyphs via **Noto Sans Linear A / B**. No frameworks, no build step, no tracking.
 
 ## Acknowledgements
 
