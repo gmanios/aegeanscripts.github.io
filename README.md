@@ -16,7 +16,7 @@
 
 **Aegean Scripts** is an interactive, dependency-free web app for exploring **Linear A** and **Linear B**, the two related writing systems of the Minoan and Mycenaean world (c. 1800–1200 BCE). Every sign is shown next to its Latin syllabic value; click signs to compose a text on a virtual clay tablet — the transliteration is engraved beneath each glyph, exactly as in the scholarly editions of the tablets — then print the result.
 
-🏛️ **Live demo:** https://gmanios.github.io/aegean-scripts/
+🏛️ **Live demo:** https://gmanios.github.io/aegeanscripts/
 
 ## Features
 
